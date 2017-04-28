@@ -12,7 +12,7 @@ public class max {
 		// напишите тут ваш код
 		ArrayList<Double> list = new ArrayList<>();
 		ArrayList<Integer> list1 = new ArrayList<>();
-		//ArrayList<Double> list2 = new ArrayList<>();
+		ArrayList<Double> list2 = new ArrayList<>();
 		
 
 		Scanner sc = new Scanner(System.in);
